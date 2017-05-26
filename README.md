@@ -1,9 +1,9 @@
-#git-push-templates
+# git-push-templates
 
 Sample ``Dockerfile``s and directory structures for writing services
 that can be deployed via a ``git push`` on a Hasura project.
 
-###How to use this
+# How to use this
 
 1. Clone this repository
 2. Copy the contents from the relevant language/framework folder into a new folder
